@@ -1,4 +1,6 @@
-#👋 Hello World!! Este é o meu primeiro programa de criptografia e descriptografia, que faz parte de um Challenge, do Programa ONE da ORACLE em parceria com a ALURA.
+#👋 Hello World!! Este é o meu primeiro programa de criptografia e descriptografia, que faz parte de um Challenge do Programa ONE da ORACLE em parceria com a ALURA.
+
+
 
 🔸 Dicas para uso do Decodificador de Texto:
 
@@ -18,6 +20,8 @@ O resultado deve ser exibido na tela.
 🔸Extras:
 
 Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
+
+Para este desafio, usei HTML5, CSS3 e JavaScript.
 
 Que seja o primeiro de muitos programas neste espaço.
 
